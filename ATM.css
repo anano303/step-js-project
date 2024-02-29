@@ -1,0 +1,10 @@
+button {
+  background-color: rgb(16, 16, 99);
+  height: 130px;
+  width: 170px;
+  color: aqua;
+  cursor: pointer;
+}
+button:hover {
+  background-color: blue;
+}
